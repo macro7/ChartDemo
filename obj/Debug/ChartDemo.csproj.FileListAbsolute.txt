@@ -1,0 +1,13 @@
+D:\Githb\ChartDemo\obj\Debug\ChartDemo.csprojAssemblyReference.cache
+D:\Githb\ChartDemo\obj\Debug\ChartDemo.Form1.resources
+D:\Githb\ChartDemo\obj\Debug\ChartDemo.Properties.Resources.resources
+D:\Githb\ChartDemo\obj\Debug\ChartDemo.csproj.GenerateResource.cache
+D:\Githb\ChartDemo\obj\Debug\ChartDemo.csproj.CoreCompileInputs.cache
+D:\Githb\ChartDemo\bin\Debug\ChartDemo.exe
+D:\Githb\ChartDemo\bin\Debug\ChartDemo.pdb
+D:\Githb\ChartDemo\obj\Debug\ChartDemo.exe
+D:\Githb\ChartDemo\obj\Debug\ChartDemo.pdb
+D:\Githb\ChartDemo\obj\Debug\ChartDemo.Form2.resources
+D:\Githb\ChartDemo\obj\Debug\ChartDemo.Form3.resources
+D:\Githb\ChartDemo\obj\Debug\ChartDemo.FrmDemo.resources
+D:\Githb\ChartDemo\obj\Debug\ChartDemo.Form4.resources
